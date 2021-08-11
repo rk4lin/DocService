@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/">
+    <file relUrl="bin/DocServiceLibrery.dll.config" publishTime="08/08/2021 12:55:56" />
+    <file relUrl="bin/DocServiceLibrery.dll" publishTime="08/08/2021 12:56:16" />
+    <file relUrl="DocServiceLibrery.Service1.svc" publishTime="08/08/2021 12:57:32" />
+    <file relUrl="Web.config" publishTime="08/08/2021 12:55:56" />
+    <file relUrl="bin/DocServiceLibrery.pdb" publishTime="08/08/2021 12:56:16" />
+  </publishTarget>
+</publishData>

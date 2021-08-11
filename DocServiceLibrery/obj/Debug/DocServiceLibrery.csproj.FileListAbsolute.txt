@@ -1,0 +1,7 @@
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceLibrery\bin\Debug\DocServiceLibrery.dll
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceLibrery\bin\Debug\DocServiceLibrery.dll.config
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceLibrery\obj\Debug\DocServiceLibrery.csproj.CoreCompileInputs.cache
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceLibrery\obj\Debug\DocServiceLibrery.dll
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceLibrery\obj\Debug\DocServiceLibrery.pdb
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceLibrery\bin\Debug\DocServiceLibrery.pdb
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceLibrery\obj\Debug\DocServiceLibrery.csproj.AssemblyReference.cache

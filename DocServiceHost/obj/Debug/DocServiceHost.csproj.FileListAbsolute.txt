@@ -1,0 +1,11 @@
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceHost\bin\Debug\DocServiceHost.exe
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceHost\bin\Debug\DocServiceHost.pdb
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceHost\bin\Debug\DocServiceLibrery.dll
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceHost\bin\Debug\DocServiceLibrery.pdb
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceHost\bin\Debug\DocServiceHost.exe.config
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceHost\bin\Debug\DocServiceLibrery.dll.config
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceHost\obj\Debug\DocServiceHost.csproj.AssemblyReference.cache
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceHost\obj\Debug\DocServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceHost\obj\Debug\DocServiceHost.csproj.CopyComplete
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceHost\obj\Debug\DocServiceHost.exe
+C:\Users\rqck\source\repos\DocServiceLibrery\DocServiceHost\obj\Debug\DocServiceHost.pdb
