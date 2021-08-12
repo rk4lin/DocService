@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DocServiceLibrery.ServiceModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
@@ -16,7 +17,7 @@ namespace DocServiceLibrary
         /// </summary>
         /// <returns></returns>
         [OperationContract]
-        [WebGet(ResponseFormat = WebMessageFormat.Json)]
+        //[WebGet(ResponseFormat = WebMessageFormat.Json)]
         List<DocMember> GetDocuments();
     }
 

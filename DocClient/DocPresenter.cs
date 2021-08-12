@@ -1,4 +1,5 @@
 ﻿using DocServiceLibrary;
+using DocServiceLibrery.ServiceModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,8 +12,7 @@ namespace DocClient
     class DocPresenter
     {
         public static List<DocMember> Request()
-        {
-
+        { 
             var serviceAddress = "http://localhost:8000/DocServiceLibrary";
             var serviceName = "DocService";
 
@@ -26,9 +26,18 @@ namespace DocClient
 
             var service = factory.CreateChannel();
 
-            var res = service.GetDocuments();
+            try
+            {
+                var res = service.GetDocuments();
+                return res; 
+            }
+            catch (Exception ex) {
+                throw ex.InnerException;
+            }
 
-            return res;
+           
+
+            
             
         }
         

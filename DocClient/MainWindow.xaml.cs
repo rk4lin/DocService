@@ -23,12 +23,11 @@ namespace DocClient
         public MainWindow()
         {
             InitializeComponent();
-            Method();
+            DocumnetsDisplay();
             
         }
 
-
-        private void Method()
+        private void DocumnetsDisplay()
         {
             var result = DocPresenter.Request();
             var listDocs = new List<DocModel>();
@@ -37,14 +36,12 @@ namespace DocClient
 
             foreach (var item in result)
             {
-                var after = item.lastUpdateDate.AddDays(60);
-
                 docModel = new DocModel()
                 {
                     docNumber = item.docNumber,
                     dateDoc = item.dateCreateDocument.ToShortDateString(),
                     lastUpdateDate = item.lastUpdateDate.ToShortDateString(),
-                    checkDateUpdate = after < DateTime.Now ? true : false
+                    checkDateUpdate = item.lastUpdateDate.AddDays(60) < DateTime.Now ? true : false
                 };
 
                 listDocs.Add(docModel);
